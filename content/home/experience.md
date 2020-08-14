@@ -37,13 +37,13 @@ date_format = "Jan 2006"
 
 
 [[experience]]
-  title = "Ph.D. Student"
+  title = "PhD Student"
   company = "the University of British Columbia"
   company_url = "https://ok.ubc.ca/"
   location = "Kelowna"
   date_start = "2017-01-01"
   date_end = "Present"
- 
+  description = """Statistics"""
  
 
 [[experience]]
