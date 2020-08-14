@@ -40,21 +40,21 @@ date_format = "Jan 2006"
   company = "the University of British Columbia"
   company_url = ""
   location = "Kelowna"
+  date_start = "2017-09-01"
+  date_end = "Present"
+  description = """Statistics"""
+ 
+ [[experience]]
+  title = "Masters Student"
+  company = "the University of British Columbia"
+  company_url = ""
+  location = "Kelowna"
   date_start = "2015-09-01"
   date_end = "2017-08-31"
   description = """Mathematics - Optimization"""
  
- 
 
-[[experience]]
-  title = "Professor"
-  company = "University X"
-  company_url = ""
-  location = "California"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
- 
+
 
 
 
