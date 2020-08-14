@@ -38,7 +38,7 @@ date_format = "Jan 2006"
 [[experience]]
   title = "Masters Student"
   company = "the University of British Columbia"
-  company_url = "https://ok.ubc.ca/"
+  company_url = https://ok.ubc.ca/
   location = "Kelowna"
   date_start = "2015-09"
   date_end = "2017-18"
