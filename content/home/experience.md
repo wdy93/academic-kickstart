@@ -33,7 +33,7 @@ date_format = "Jan 2006"
   location = "Kelowna"
   date_start = "2015-09"
   date_end = "2017-08"
-  description = """Mathematics - Optimization"""
+  #description = """Mathematics - Optimization"""
 
 
 
