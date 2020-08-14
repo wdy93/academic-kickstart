@@ -37,12 +37,12 @@ date_format = "Jan 2006"
 
 [[experience]]
   title = "Ph.D. Student"
-  company = "University X"
+  company = "the University of British Columbia"
   company_url = ""
-  location = "California"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  location = "Kelowna"
+  date_start = "2015-09-01"
+  date_end = "2017-08-31"
+  description = """Mathematics"""
  
  
 
