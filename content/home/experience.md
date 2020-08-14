@@ -36,14 +36,14 @@ date_format = "Jan 2006"
 ##  #description = """Mathematics - Optimization"""
 
 [[experience]]
-  title = "Masters Student"
-  company = "the University of British Columbia"
+  title = "Professor"
+  company = "University X"
   company_url = ""
-  location = "Kelowna"
-  date_start = "2015-09"
-  date_end = "2017-18"
-  description = """Mathematics - Optimization"""
-
+  location = "California"
+  date_start = "2016-01-01"
+  date_end = "2016-12-31"
+  description = """Taught electronic engineering and researched semiconductor physics."""
+ 
  
 
 [[experience]]
