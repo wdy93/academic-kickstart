@@ -40,5 +40,23 @@ date_format = "Jan 2006"
  ## date_start = "2016-01-01"
  ## date_end = "2016-12-31"
  ## description = """Taught electronic engineering and researched semiconductor physics."""
+ 
+ [[experience]]
+  title = "Ph.D. Student"
+  company = "the University of British Columbia"
+  company_url = "https://ok.ubc.ca/"
+  location = "Kelowna"
+  date_start = "2017-09"
+  date_end = "Present"
+  description = """Statistics"""
+ 
+ [[experience]]
+  title = "Masters Student"
+  company = "the University of British Columbia"
+  company_url = "https://ok.ubc.ca/"
+  location = "Kelowna"
+  date_start = "2015-09"
+  date_end = "2017-08"
+  description = """Mathematics - Optimization"""
 
 +++
