@@ -43,7 +43,7 @@ date_format = "Jan 2006"
   location = "Kelowna"
   date_start = "2017-01-01"
   date_end = "Present"
-  description = """Statistics"""
+  #description = """Statistics"""
  
 
 [[experience]]
