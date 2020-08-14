@@ -36,7 +36,7 @@ date_format = "Jan 2006"
 ##  #description = """Mathematics - Optimization"""
 
 [[experience]]
-  title = "Professor"
+  title = "Ph.D. Student"
   company = "University X"
   company_url = ""
   location = "California"
