@@ -37,7 +37,7 @@ date_format = "Jan 2006"
 
 [[experience]]
   title = "Ph.D. Student"
-  company = "the University of British Columbia"
+  company = "The University of British Columbia"
   company_url = ""
   location = "Kelowna"
   date_start = "2017-09-01"
@@ -46,7 +46,7 @@ date_format = "Jan 2006"
  
  [[experience]]
   title = "Masters Student"
-  company = "the University of British Columbia"
+  company = "The University of British Columbia"
   company_url = ""
   location = "Kelowna"
   date_start = "2015-09-01"
