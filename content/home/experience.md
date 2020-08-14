@@ -41,7 +41,7 @@ date_format = "Jan 2006"
   company_url = ""
   location = "Kelowna"
   date_start = "2017-09-01"
-  date_end = "Present"
+  date_end = ""
   description = """Statistics"""
  
  [[experience]]
