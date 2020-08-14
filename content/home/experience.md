@@ -37,19 +37,14 @@ date_format = "Jan 2006"
 
 
 [[experience]]
-  title = "CEO"
-  company = "GenCoin"
-  company_url = ""
-  location = "California"
+  title = "Ph.D. Student"
+  company = "the University of British Columbia"
+  company_url = "https://ok.ubc.ca/"
+  location = "Kelowna"
   date_start = "2017-01-01"
-  date_end = ""
-  description = """
-  Responsibilities include:
-  
-  * Analysing
-  * Modelling
-  * Deploying
-  """
+  date_end = "Present"
+  description = """Statistics"""
+ 
 
 [[experience]]
   title = "Professor"
