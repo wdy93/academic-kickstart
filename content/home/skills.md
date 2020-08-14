@@ -21,7 +21,7 @@ subtitle = ""
   description = "90%"
   
 [[feature]]
-  icon = "MATLAB-project"
+  icon = "matlab-project"
   icon_pack = "fab"
   name = "MATLAB"
   description = "40%"
